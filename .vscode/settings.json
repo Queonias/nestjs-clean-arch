@@ -1,0 +1,7 @@
+{
+  "files.trimFinalNewlines": true, // Remove linhas em branco no final dos arquivos
+  "files.insertFinalNewline": true, // Garante que sempre haja uma linha em branco no final do arquivo
+  "editor.indentSize": 2, // Define o tamanho da indentação como 2 espaços
+  "editor.formatOnSave": true, // ✅ Formata automaticamente ao salvar
+  "editor.defaultFormatter": "esbenp.prettier-vscode" // ✅ Usa o Prettier como formatador padrão
+}
